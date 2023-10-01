@@ -6,6 +6,8 @@ This project will use Semantic Versioning for it's tagging.
 
 \[semver.org\](https://semver.org/)
 
+:mage:
+
 Given a version number **MAJOR.MINOR.PATCH,** increment the:
 
 *   **MAJOR** version when you make incompatible API changes
